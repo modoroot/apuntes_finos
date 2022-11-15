@@ -166,7 +166,7 @@ coordinación de las acciones que se van a ejecutar mediante el intercambio
 de mensajes. Los ordenadores que ejecutan los procesos coordinados
 pueden sincronizar sus relojes con límites en la precisión. Por lo que no hay
 una única noción global del tiempo.
-	c) Fallos independientes. Los sistemas distribuidos incorporan fallos de red que
+c) Fallos independientes. Los sistemas distribuidos incorporan fallos de red que
 no dependen directamente del resultado de la ejecución del proceso que la
 usa. Cada componente del sistema puede fallar independientemente,
 ordenador, proceso, red, etc.
