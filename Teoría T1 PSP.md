@@ -27,9 +27,13 @@ suspende la ejecución de un proceso, el sistema operativo guarda el estado de
 ejecución del mismo, esto es necesario para poner en ejecución de nuevo el
 proceso.
 El Bloque de Control de Proceso (BCP) es el lugar donde se almacena la
-información de cada proceso. La información que contiene este bloque es la
-siguiente:
-
+información de cada proceso.
+La función fork() se utiliza para crear un proceso hijo idéntico al proceso que llama a
+la función, mismo código y datos. Cada uno de los dos procesos, padre e hijo,
+tienen memoria independiente por lo que las variables se pueden modificar de
+manera independiente. Una vez se crea el proceso hijo, ambos, padre e hijo
+continúan la ejecución a partir del código que haya después de la llamada a la
+función fork().
 ## 2. Hilos y procesos
 ## 3. Programación concurrente
 ## 4. Progamación paralela y distribuida
