@@ -55,4 +55,54 @@ proceso.
 mientras que en la comunicación entre hilos no necesita intervenir el núcleo,
 lo puede realizar el proceso que contiene a los hilos.
 ## 3. Programación concurrente
+La programación concurrente se refiere a la ejecución de procesos de manera
+simultánea pero no paralela, es decir los procesos no se ejecutan en distintos
+procesadores o núcleos.
+**Beneficios de la programación concurrente**
+Algunos de los beneficios que aporta la programación concurrente son:
+- Mejor aprovechamiento de la CPU. Un proceso puede consumir ciclos
+de CPU mientras otro hace uso de recursos de E/S.
+- Mayor velocidad de ejecución. Repartir el trabajo entre varios procesos
+puede mejorar la velocidad de ejecución en algunos casos porque se
+aprovecha mejor el tiempo.
+- Solución de problemas de tipo concurrente. Algunos problemas sólo se
+pueden solucionar de manera eficiente mediante programación
+concurrente, por ejemplo: software en tiempo real (manejan sensores y
+actuadores), servidores de chat , servidores de correo, servidores web,
+navegador web (descarga archivos mientras realiza una búsqueda en
+un buscador web), etc.
+**Concurrencia y hardware**
+En un sistema monoprocesador se puede llevar a cabo la programación
+concurrente gestionando el tiempo que el procesador dedica a cada proceso.
+El SO va alternando el tiempo entre procesos, cuando el proceso necesita un
+recurso de E/S, abandona el procesador y otro proceso lo ocupa
+aprovechando los ciclos de CPU disponibles. La forma de gestionar los
+procesos en un sistema monoprocesador recibe el nombre de
+multiprogramación. En un sistema monoprocesador todos los procesos
+comparten la misma memoria. La forma de comunicar y sincronizar procesos
+se realiza mediante variables compartidas. En un sistema multiprocesador es
+posible tener varios procesos en ejecución, paralelismo real.
+Los sistemas multiprocesador se pueden clasificar en:
+**Fuertemente acoplados:** cuando poseen memoria compartida por
+todos los procesadores.
+**Débilmente acoplados:** cuando los procesadores tienen memorias
+locales y no existe compartición de memoria.
+
+### Inconvenientes de la programación concurrente
+**Los principales inconvenientes son:**
+- Exclusión mutua. El acceso a una variable compartida, para
+actualizarla, por varios procesos al mismo tiempo representa una
+operación muy común en programación concurrente. Las variables
+compartidas que representan una región crítica deben estar
+gestionadas para evitar errores producidos por los intentos de lectura y
+escritura de distintos procesos de manera no sincronizada. Se deben
+sincronizar las lecturas y actualizaciones de las variables de una
+región crítica para evitar resultados erróneos.
+- Condición de sincronización. Este problema se refiere a la necesidad
+de sincronización de los procesos ante operaciones concurrentes.
+Puede ocurrir que un proceso entre en un estado en espera y no
+pueda continuar su ejecución hasta que otro proceso haya liberado la
+CPU. La programación concurrente dispone de mecanismos para
+bloquear procesos a la espera de una determinada señal y
+desbloquearlos cuando dicha señal llegue.
 ## 4. Progamación paralela y distribuida
