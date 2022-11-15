@@ -149,23 +149,23 @@ rápidos.
 
 Los sistemas distribuidos son difíciles de definir, algunas definiciones válidas serían
 las siguientes:
+
 ● “Un sistema en el cual componentes conectados a través de una red de
 computadoras se comunican y coordinan sus acciones mediante el
 intercambio de mensajes”. Principales características:
 concurrencia de componentes, ausencia de reloj global e independencia de
 fallos en sus componentes
+
 ● Un sistema distribuido es una colección de computadoras independientes que
 dan la apariencia al usuario de ser una computadora única”
+
 De lo anterior podemos extraer una definición de sistema distribuido, lo vamos a
 definir como aquel en el que los componentes hardware o software, localizados en
 ordenadores unidos mediante red, comunican y coordinan acciones sólo mediante
-paso de mensajes. Consecuencias de la definición:
+paso de mensajes. 
+Consecuencias de la definición:
 	a) Concurrencia de procesos y compartición de recursos.
-	b) Inexistencia de reloj global. La cooperación de procesos necesita
-coordinación de las acciones que se van a ejecutar mediante el intercambio
-de mensajes. Los ordenadores que ejecutan los procesos coordinados
-pueden sincronizar sus relojes con límites en la precisión. Por lo que no hay
-una única noción global del tiempo.
+	b) Inexistencia de reloj global. La cooperación de procesos necesita coordinación de las acciones que se van a ejecutar mediante el intercambio de mensajes. Los ordenadores que ejecutan los procesos coordinados pueden sincronizar sus relojes con límites en la precisión. Por lo que no hay una única noción global del tiempo.
 
 c) Fallos independientes. Los sistemas distribuidos incorporan fallos de red que
 no dependen directamente del resultado de la ejecución del proceso que la
