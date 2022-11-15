@@ -106,3 +106,43 @@ CPU. La programación concurrente dispone de mecanismos para
 bloquear procesos a la espera de una determinada señal y
 desbloquearlos cuando dicha señal llegue.
 ## 4. Progamación paralela y distribuida
+Un programa paralelo está diseñado para programación concurrente y se ejecuta en
+un sistema multiprocesador. El procesamiento paralelo permite la ejecución, al
+mismo tiempo, de distintas tareas para resolver un problema. El problema se divide
+en tareas independientes que cada hilo o proceso ejecuta, y que cuando finalizan
+proporcionan los resultados al hilo o proceso principal. Para ello los hilos o procesos
+deben comunicarse e intercambiar información, según como se realice el
+intercambio de información tendremos distintos modelos de programación paralela:
+- Memoria compartida: los procesadores (o núcleos) comparten la memoria,
+todos acceden al mismo espacio de memoria. De esta manera todo lo que se
+escribe por un procesador es leído por el mismo y el resto.
+- Paso de mensajes: cada procesador (o núcleo) dispone de su propia
+memoria que es accesible sólo por él. Para que un procesador pueda tener
+información de otro es necesario que la solicite mediante un mensaje
+(Parallel Virtual Machine PVM, sigue este modelo).
+El tipo de almacenamiento compartido de los procesadores da lugar a distintas
+arquitecturas paralelas:
+- Sistemas de memoria compartida o multiprocesadores: los procesos
+comparten físicamente la memoria.
+- Sistemas de memoria distribuida o multicomputadores: cada procesador
+dispone de su memoria y la comparte a través canales de comunicación muy
+rápidos.
+
+#### Las ventajas del procesamiento paralelo son:
+-  Proporciona ejecución simultánea de tareas.
+-  Disminuye el tiempo total de ejecución
+-  Permite resolver problemas complejos y con gran volumen de información
+-  Posibilita la utilización de recursos no locales, por ejemplo recursos en una
+- red distribuida.
+-  Eliminación de arquitecturas de cómputo centralizadas.
+- os inconvenientes del procesamiento paralelo son:
+-  La programación es más compleja
+-  El consumo de energía aumenta al usar más ordenadores
+-  Mayor complejidad en el acceso a los datos
+-  Es difícil la comunicación y sincronización entre tareas
+
+#### Los inconvenientes del procesamiento paralelo son:
+-  La programación es más compleja
+-  El consumo de energía aumenta al usar más ordenadores
+-  Mayor complejidad en el acceso a los datos
+-  Es difícil la comunicación y sincronización entre tareas
