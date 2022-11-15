@@ -170,24 +170,26 @@ c) Fallos independientes. Los sistemas distribuidos incorporan fallos de red que
 no dependen directamente del resultado de la ejecución del proceso que la
 usa. Cada componente del sistema puede fallar independientemente,
 ordenador, proceso, red, etc.
+
 Algunos ejemplos de sistemas distribuidos son:
 ● Internet: Es una red extensa de ordenadores de diferentes tipos
 interconectados. Los programas que se ejecutan en los ordenadores
 conectados a Internet interactúan mediante el paso de mensajes, empleando
 un medio común de comunicación. Internet proporciona una infinidad de
 servicios como correo electrónico, ficheros compartidos, multimedia, etc.
+
 ● Intranets: Es una red privada que también puede formar parte de la red de
 Internet conectando por medio de un router. Los servicios que proporciona la
 intranet a sus usuarios se protegen ante el acceso no autorizado de usuarios
 y de programas maliciosos que provienen de Internet. Normalmente se
 utilizan cortafuegos para implementar la configuración de seguridad y realizar
 un filtrado de mensajes que entran y salen de la intranet.
-Servicios y procesos - 2º DAM - IES Antonio Gala - Palma del Río 64
-Tema 1: Programación paralela
+
 ● Computación móvil y ubicua: Se llama computación móvil a la realización de
 tareas de cómputo mientras el usuario está en movimiento o visitando lugares
 distintos a su entorno habitual. Los usuarios pueden acceder a los recursos
 de sus intranets conectando a través de Internet.
+
 La computación ubicua corresponde a la utilización de dispositivos de
 computación pequeños presentes en los entornos de trabajo de los usuarios.
 Normalmente la presencia de pequeños computadores en distintos entornos
@@ -195,6 +197,7 @@ sólo tiene sentido si pueden comunicarse entre sí (ej. La lavadora). Los
 ordenadores portátiles se comunican conectándose a través de una red local
 inalámbrica. Los teléfonos móviles pueden conectarse a Internet para una
 comunicación de datos usando GPRS, 3G, 4G o 5G.
+
 La computación móvil y ubicua se solapan puesto que un usuario en
 movimiento puede beneficiarse de los ordenadores de los entornos por los
 que va pasando.
@@ -202,20 +205,7 @@ que va pasando.
 Utilizamos el término servicio para una funcionalidad proporcionada por los
 ordenadores por la cual se gestionan un conjunto de recursos relacionados y
 se presenta una interfaz de aplicación al usuario.
-El término servidor se refiere a un programa en ejecución (un proceso) en un
-ordenador en red que acepta peticiones desde otros programas que se
-ejecutan en otros ordenadores. Los procesos solicitantes se denominan
-clientes y las peticiones se envían a través de mensajes desde los clientes al
-servidor. Las respuestas se envían también a través de mensajes desde el
-servidor a los clientes. Cuando un cliente envía una petición para que realice
-una operación se dice que se invoca una operación en el servidor. Se llama
-invocación remota a una interacción completa entre un cliente y un servidor,
-desde que se envía la petición hasta que se recibe la respuesta.
-Los términos cliente y servidor se aplican a los roles desempeñados en una
-única solicitud. Los clientes son activos y los servidores pasivos, los
-servidores está en ejecución constante, mientras que los clientes sólo lo
-hacen el tiempo de uso de la aplicación a la que pertenecen. Un navegador
-de Internet es un ejemplo de cliente, y un servidor Web de servidor.
+
 Existen varios modelos de programación para la comunicación entre los procesos de un
 sistema distribuido:
 - Sockets: proporcionan una conexión entre dos puntos de una red, a través de
