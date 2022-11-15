@@ -166,6 +166,7 @@ coordinación de las acciones que se van a ejecutar mediante el intercambio
 de mensajes. Los ordenadores que ejecutan los procesos coordinados
 pueden sincronizar sus relojes con límites en la precisión. Por lo que no hay
 una única noción global del tiempo.
+
 c) Fallos independientes. Los sistemas distribuidos incorporan fallos de red que
 no dependen directamente del resultado de la ejecución del proceso que la
 usa. Cada componente del sistema puede fallar independientemente,
@@ -201,6 +202,7 @@ comunicación de datos usando GPRS, 3G, 4G o 5G.
 La computación móvil y ubicua se solapan puesto que un usuario en
 movimiento puede beneficiarse de los ordenadores de los entornos por los
 que va pasando.
+
 ● Recursos compartidos y web
 Utilizamos el término servicio para una funcionalidad proporcionada por los
 ordenadores por la cual se gestionan un conjunto de recursos relacionados y
