@@ -1,5 +1,4 @@
 
-![[Recording 20221115202131.webm]]
 ## 1. Características de los procesos y su ejecución
 Un proceso es un ente abstracto que representa al conjunto de instrucciones de un
 programa en ejecución y bajo el control del sistema operativo. Un proceso puede

@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Teoría T1 PSP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Teoría T1 PSP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Teoría T1 PSP.md"
+              }
             }
           }
         ]
@@ -132,10 +136,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "67d3ad2c87399f4a",
+  "active": "a45d549ed56fb0cd",
   "lastOpenFiles": [
+    "Recording 20221115202131.webm.md",
     "Teoría T1 PSP.md",
     "img/Recording 20221115202131.webm",
+    "Untitled.md",
     "img/Pasted image 20221115201954.png",
     "2022-11-15.md"
   ]
