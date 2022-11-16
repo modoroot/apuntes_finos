@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4f4e5ffa97ccb75f",
+        "id": "86b3469365d323c8",
         "type": "tabs",
         "children": [
           {
-            "id": "a45d549ed56fb0cd",
+            "id": "f6780c64935b5d91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoría T1 PSP.md",
+                "file": "DIN/2022-11-16 Ejercicio 1 exp..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoría T1 PSP.md",
+                "file": "DIN/2022-11-16 Ejercicio 1 exp..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoría T1 PSP.md",
+                "file": "DIN/2022-11-16 Ejercicio 1 exp..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teoría T1 PSP.md"
+                "file": "DIN/2022-11-16 Ejercicio 1 exp..md"
               }
             }
           }
@@ -136,10 +136,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a45d549ed56fb0cd",
+  "active": "f6780c64935b5d91",
   "lastOpenFiles": [
-    "README.md",
+    "DIN/Apuntes DIN.md",
+    "DIN/2022-11-16 Ejercicio 1 exp..md",
+    "Untitled.md",
     "Teoría T1 PSP.md",
+    "README.md",
     "img/Pasted image 20221115201954.png",
     "Recording 20221115202131.webm.md",
     "img/Recording 20221115202131.webm",
