@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69877100d927ba33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SGE/Comandos Odoo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIN/2022-11-16 Ejercicio 1 exp..md",
+                "file": "SGE/Comandos Odoo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIN/2022-11-16 Ejercicio 1 exp..md",
+                "file": "SGE/Comandos Odoo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIN/2022-11-16 Ejercicio 1 exp..md"
+                "file": "SGE/Comandos Odoo.md"
               }
             }
           }
@@ -136,11 +149,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2120140915ba3158",
+  "active": "69877100d927ba33",
   "lastOpenFiles": [
+    "DIN/2022-11-16 Ejercicio 1 exp..md",
     "T2. Prog Multihilo.md",
     "PSP/2022-11-22.md",
-    "DIN/2022-11-16 Ejercicio 1 exp..md",
     "Teoría T1 PSP.md",
     "DIN/Apuntes DIN.md",
     "README.md",
