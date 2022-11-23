@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SGE/Comandos Odoo.md",
+                "file": "HLC/Apuntes HLC.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SGE/Comandos Odoo.md",
+                "file": "HLC/Apuntes HLC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SGE/Comandos Odoo.md",
+                "file": "HLC/Apuntes HLC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SGE/Comandos Odoo.md"
+                "file": "HLC/Apuntes HLC.md"
               }
             }
           }
@@ -151,15 +151,15 @@
   },
   "active": "69877100d927ba33",
   "lastOpenFiles": [
+    "SGE/Comandos Odoo.md",
     "DIN/2022-11-16 Ejercicio 1 exp..md",
-    "T2. Prog Multihilo.md",
+    "PSP/T2. Prog Multihilo.md",
     "PSP/2022-11-22.md",
     "Teoría T1 PSP.md",
     "DIN/Apuntes DIN.md",
     "README.md",
     "img/Pasted image 20221115201954.png",
     "Recording 20221115202131.webm.md",
-    "img/Recording 20221115202131.webm",
-    "2022-11-15.md"
+    "img/Recording 20221115202131.webm"
   ]
 }
