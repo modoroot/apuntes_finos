@@ -1,6 +1,7 @@
 
 <iframe src="https://dev.mysql.com/doc/index-other.html" width="100%" height="600px"></iframe>
-# 1. Usar consultas precompiladas
+> [!warning] Usar consultas precompiladas
+
 > [!info] 1. Singleton se asegura que cada clase sólo tenga un objeto
 > 2. Constructor privado obligatoriamente
 > 3. Propiedad estática (para poder ser compartida)
