@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "5424d70c9028b672",
+        "id": "67b4915d8e624286",
         "type": "tabs",
         "children": [
           {
-            "id": "2120140915ba3158",
+            "id": "ecc33cee766344a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIN/2022-11-16 Ejercicio 1 exp..md",
+                "file": "PSP/T2. Prog Multihilo.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "69877100d927ba33",
+            "id": "a18133d34b47d94f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SGE/Comandos Odoo.md",
+                "file": "HLC/JS/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fa9ae11c2e2b14aa",
+            "id": "9ca7ead7886e796a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cosas.md",
+                "file": "DIN/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cosas.md",
+                "file": "DIN/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cosas.md",
+                "file": "DIN/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cosas.md"
+                "file": "DIN/Untitled.md"
               }
             }
           }
@@ -161,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fa9ae11c2e2b14aa",
+  "active": "9ca7ead7886e796a",
   "lastOpenFiles": [
+    "PSP/T2. Prog Multihilo.md",
+    "cosas.md",
     "SGE/Comandos Odoo.md",
     "DIN/2022-11-16 Ejercicio 1 exp..md",
     "HLC/Apuntes HLC.md",
-    "PSP/T2. Prog Multihilo.md",
     "PSP/2022-11-22.md",
     "Teoría T1 PSP.md",
     "DIN/Apuntes DIN.md",
     "README.md",
-    "img/Pasted image 20221115201954.png",
-    "Recording 20221115202131.webm.md"
+    "img/Pasted image 20221115201954.png"
   ]
 }
