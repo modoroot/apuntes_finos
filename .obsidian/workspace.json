@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIN/Untitled.md",
+                "file": "SGE/Comandos Odoo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIN/Untitled.md",
+                "file": "PSP/T2. Prog Multihilo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIN/Untitled.md",
+                "file": "PSP/T2. Prog Multihilo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIN/Untitled.md"
+                "file": "PSP/T2. Prog Multihilo.md"
               }
             }
           }
@@ -161,17 +160,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9ca7ead7886e796a",
+  "active": "ecc33cee766344a7",
   "lastOpenFiles": [
-    "PSP/T2. Prog Multihilo.md",
-    "cosas.md",
     "SGE/Comandos Odoo.md",
+    "cosas.md",
+    "Teoría T1 PSP.md",
+    "DIN/Untitled.md",
+    "PSP/T2. Prog Multihilo.md",
     "DIN/2022-11-16 Ejercicio 1 exp..md",
     "HLC/Apuntes HLC.md",
     "PSP/2022-11-22.md",
-    "Teoría T1 PSP.md",
     "DIN/Apuntes DIN.md",
-    "README.md",
-    "img/Pasted image 20221115201954.png"
+    "README.md"
   ]
 }
