@@ -1,0 +1,7 @@
+-Sistema ficheros en Java (Clase File)
+-Clases relativas a los flujos
+-Excepciones FileNotFoundException
+-FileWriter: append(), write()
+-manipular tipos primitivos
+-PrintWriter: flush(), close()
+-DOM-XML; XML-DOM
