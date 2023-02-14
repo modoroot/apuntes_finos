@@ -30,9 +30,25 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc8bb006c5be0d5c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "PSP/diagrama FTP.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0,
+                  "snapToGrid": true
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSP/T4 Servicios en Red.md",
+                "file": "PSP/diagrama FTP.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSP/T4 Servicios en Red.md",
+                "file": "PSP/diagrama FTP.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSP/T4 Servicios en Red.md"
+                "file": "PSP/diagrama FTP.canvas"
               }
             }
           }
@@ -161,17 +177,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6b439b86578c7a76",
+  "active": "67d3ad2c87399f4a",
   "lastOpenFiles": [
-    "PSP/T2. Prog Multihilo.md",
+    "DIN/DAO.md",
+    "PSP/diagrama FTP.canvas",
     "HLC/JS/Untitled.md",
-    "2022-12-14.md",
-    "ACD/Examen T1.md",
-    "DIN/Untitled.md",
+    "Patrones.md",
+    "PSP/T4 Servicios en Red.md",
+    "PSP/T2. Prog Multihilo.md",
     "cosas.md",
     "SGE/Comandos Odoo.md",
-    "DIN/2022-11-16 Ejercicio 1 exp..md",
     "HLC/Apuntes HLC.md",
-    "PSP/2022-11-22.md"
+    "DIN/2022-11-16 Ejercicio 1 exp..md"
   ]
 }

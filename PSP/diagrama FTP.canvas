@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"e09a94bec79be09c","x":-140,"y":-340,"width":250,"height":60,"type":"text","text":"FtpClientApp"},
+		{"id":"d4140cb26f7fbaf7","x":-390,"y":-160,"width":250,"height":60,"type":"text","text":"FtpClientConfig"},
+		{"id":"945484848605fc79","x":80,"y":-160,"width":250,"height":60,"type":"text","text":"ConnManager"},
+		{"id":"51430ae012c72886","x":-390,"y":0,"width":250,"height":60,"type":"text","text":"FtpClient"},
+		{"id":"30ce448817b471cf","x":-390,"y":140,"width":250,"height":60,"type":"text","text":"FtpConnection"}
+	],
+	"edges":[]
+}
