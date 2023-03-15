@@ -30,25 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fc8bb006c5be0d5c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "PSP/diagrama FTP.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0,
-                  "snapToGrid": true
-                }
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSP/diagrama FTP.canvas",
+                "file": "PSP/T4 Servicios en Red.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSP/diagrama FTP.canvas",
+                "file": "PSP/T4 Servicios en Red.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSP/diagrama FTP.canvas"
+                "file": "PSP/T4 Servicios en Red.md"
               }
             }
           }
@@ -177,14 +161,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "67d3ad2c87399f4a",
+  "active": "6b439b86578c7a76",
   "lastOpenFiles": [
-    "DIN/DAO.md",
     "PSP/diagrama FTP.canvas",
-    "HLC/JS/Untitled.md",
-    "Patrones.md",
     "PSP/T4 Servicios en Red.md",
     "PSP/T2. Prog Multihilo.md",
+    "DIN/DAO.md",
+    "HLC/JS/Untitled.md",
+    "Patrones.md",
     "cosas.md",
     "SGE/Comandos Odoo.md",
     "HLC/Apuntes HLC.md",
