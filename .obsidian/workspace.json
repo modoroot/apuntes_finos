@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6ed37e9dc4843646",
+        "id": "a7c452a039399aa2",
         "type": "tabs",
         "children": [
           {
-            "id": "6ca676db082feb28",
+            "id": "2e91007cf668bf1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSP/T2. Prog Multihilo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b439b86578c7a76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PSP/T4 Servicios en Red.md",
+                "file": "JuegoPMDM/Reparto tareas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSP/T4 Servicios en Red.md",
+                "file": "JuegoPMDM/Reparto tareas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSP/T4 Servicios en Red.md",
+                "file": "JuegoPMDM/Reparto tareas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSP/T4 Servicios en Red.md"
+                "file": "JuegoPMDM/Reparto tareas.md"
               }
             }
           }
@@ -161,11 +148,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6b439b86578c7a76",
+  "active": "2e91007cf668bf1c",
   "lastOpenFiles": [
-    "PSP/diagrama FTP.canvas",
-    "PSP/T4 Servicios en Red.md",
+    "Untitled.md",
+    "JuegoPMDM/Reparto tareas.md",
+    "JuegoPMDM",
     "PSP/T2. Prog Multihilo.md",
+    "PSP/T4 Servicios en Red.md",
+    "PSP/diagrama FTP.canvas",
     "DIN/DAO.md",
     "HLC/JS/Untitled.md",
     "Patrones.md",
