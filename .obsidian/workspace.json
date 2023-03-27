@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a7c452a039399aa2",
+        "id": "256b59f0e1c609ce",
         "type": "tabs",
         "children": [
           {
-            "id": "2e91007cf668bf1c",
+            "id": "2e70a51dbd85e590",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -142,6 +142,8 @@
   },
   "active": "67d3ad2c87399f4a",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "ACD/Examen T1.md",
     "CSharp/cosa.md",
     "DIN/2022-11-16 Ejercicio 1 exp..md",
     "DIN/DAO.md",
