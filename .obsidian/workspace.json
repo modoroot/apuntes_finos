@@ -11,12 +11,8 @@
             "id": "2e91007cf668bf1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JuegoPMDM/Reparto tareas.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JuegoPMDM/Reparto tareas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JuegoPMDM/Reparto tareas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JuegoPMDM/Reparto tareas.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,20 +140,23 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2e91007cf668bf1c",
+  "active": "67d3ad2c87399f4a",
   "lastOpenFiles": [
-    "Untitled.md",
+    "CSharp/cosa.md",
+    "DIN/2022-11-16 Ejercicio 1 exp..md",
+    "DIN/DAO.md",
+    "HLC/Apuntes HLC.md",
+    "HLC/JS/Untitled.md",
+    "img/0152c815-c1ae-476a-98be-dc6499738935.jpg",
+    "SGE/Comandos Odoo.md",
+    "cosas.md",
+    "Patrones.md",
+    "Teoría T1 PSP.md",
     "JuegoPMDM/Reparto tareas.md",
+    "Untitled.md",
     "JuegoPMDM",
     "PSP/T2. Prog Multihilo.md",
     "PSP/T4 Servicios en Red.md",
-    "PSP/diagrama FTP.canvas",
-    "DIN/DAO.md",
-    "HLC/JS/Untitled.md",
-    "Patrones.md",
-    "cosas.md",
-    "SGE/Comandos Odoo.md",
-    "HLC/Apuntes HLC.md",
-    "DIN/2022-11-16 Ejercicio 1 exp..md"
+    "PSP/diagrama FTP.canvas"
   ]
 }
