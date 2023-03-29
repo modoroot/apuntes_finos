@@ -11,11 +11,28 @@
             "id": "2e70a51dbd85e590",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes FCT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a6ba00b9d9cb65e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mejoras Dual.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mejoras Dual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mejoras Dual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mejoras Dual.md"
+              }
             }
           }
         ]
@@ -140,8 +161,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "67d3ad2c87399f4a",
+  "active": "5a6ba00b9d9cb65e",
   "lastOpenFiles": [
+    "Apuntes FCT.md",
+    "Mejoras Dual.md",
     "Untitled.canvas",
     "ACD/Examen T1.md",
     "CSharp/cosa.md",
@@ -155,7 +178,6 @@
     "Patrones.md",
     "Teoría T1 PSP.md",
     "JuegoPMDM/Reparto tareas.md",
-    "Untitled.md",
     "JuegoPMDM",
     "PSP/T2. Prog Multihilo.md",
     "PSP/T4 Servicios en Red.md",
