@@ -1,1 +1,4 @@
-- importación de clientes desde un excel
+- TRANSFVI, TRANSFI, etc -> transferencia
+- RECIBO30, 30, etc -> domiciliado
+- CHEQ -> lo creo en la DB
+---

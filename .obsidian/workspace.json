@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "256b59f0e1c609ce",
+        "id": "490993de0d36781a",
         "type": "tabs",
         "children": [
           {
-            "id": "2e70a51dbd85e590",
+            "id": "d0c3ed38047c0204",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5a6ba00b9d9cb65e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mejoras Dual.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mejoras Dual.md",
+                "file": "Apuntes FCT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mejoras Dual.md",
+                "file": "Apuntes FCT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mejoras Dual.md"
+                "file": "Apuntes FCT.md"
               }
             }
           }
@@ -161,22 +148,23 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5a6ba00b9d9cb65e",
+  "active": "d0c3ed38047c0204",
   "lastOpenFiles": [
-    "Apuntes FCT.md",
-    "Mejoras Dual.md",
-    "Untitled.canvas",
-    "ACD/Examen T1.md",
+    "Patrones.md",
+    "cosas.md",
     "CSharp/cosa.md",
+    "Teoría T1 PSP.md",
+    "Apuntes FCT.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Mejoras Dual.md",
+    "ACD/Examen T1.md",
     "DIN/2022-11-16 Ejercicio 1 exp..md",
     "DIN/DAO.md",
     "HLC/Apuntes HLC.md",
     "HLC/JS/Untitled.md",
     "img/0152c815-c1ae-476a-98be-dc6499738935.jpg",
     "SGE/Comandos Odoo.md",
-    "cosas.md",
-    "Patrones.md",
-    "Teoría T1 PSP.md",
     "JuegoPMDM/Reparto tareas.md",
     "JuegoPMDM",
     "PSP/T2. Prog Multihilo.md",
